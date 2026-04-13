@@ -1,6 +1,5 @@
 //Multi-Level Cache System with Hash Tables
 import java.util.*;
-
 public class Main {
 
     LinkedHashMap<String, String> L1 =
